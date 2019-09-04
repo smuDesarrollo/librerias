@@ -17,8 +17,8 @@
       dv != "K"
     ) {
       console.log("<label class='label-form denegate' for='rut'>Debe ingresar un digito verificador valido</label>");
-      window.document.form1.rut.focus();
-      window.document.form1.rut.select();
+      window.document.contacto_frm.rut.focus();
+      window.document.contacto_frm.rut.select();
       return false;
     }
     return true;
@@ -28,8 +28,8 @@
     largo = crut.length;
     if (largo < 2) {
       console.log("<label class='label-form denegate' for='rut'>Debe ingresar el <b>RUT</b> completo</label>");
-      window.document.form1.rut.focus();
-      window.document.form1.rut.select();
+      window.document.contacto_frm.rut.focus();
+      window.document.contacto_frm.rut.select();
       return false;
     }
     if (largo > 2) rut = crut.substring(0, largo - 1);
@@ -56,8 +56,8 @@
     }
     if (dvr != dv.toLowerCase()) {
       console.log("<label class='label-form denegate' for='rut'>EL <b>RUT</b> es incorrecto</label>");
-      window.document.form1.rut.focus();
-      window.document.form1.rut.select();
+      window.document.contacto_frm.rut.focus();
+      window.document.contacto_frm.rut.select();
       return false;
     }
 
@@ -78,8 +78,8 @@
 
     if (largo < 2) {
       console.log("<label class='label-form denegate' for='rut'>Debe ingresar el <b>RUT completo</b></label>");
-      window.document.form1.rut.focus();
-      window.document.form1.rut.select();
+      window.document.contacto_frm.rut.focus();
+      window.document.contacto_frm.rut.select();
       return false;
     }
 
@@ -100,8 +100,8 @@
       ) {
         console.log("<label class='label-form denegate' for='rut'>El valor ingresado no corresponde a un <b>RUT</b> valido</label>");
         // $("label[for=rut]").replaceWith("<label class='label-form denegate' for='rut'>El valor ingresado no corresponde a un <b>RUT</b> valido</label>");
-        window.document.form1.rut.focus();
-        window.document.form1.rut.select();
+        window.document.contacto_frm.rut.focus();
+        window.document.contacto_frm.rut.select();
         return false;
       }
     }
@@ -131,7 +131,7 @@
     for (i = dtexto.length - 1, j = 0; i >= 0; i--, j++)
       invertido = invertido + dtexto.charAt(i);
 
-    window.document.form1.rut.value = invertido.toUpperCase();
+    window.document.contacto_frm.rut.value = invertido.toUpperCase();
 
 
 
