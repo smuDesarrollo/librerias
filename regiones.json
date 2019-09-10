@@ -1,0 +1,38 @@
+[
+
+     {
+         "nombreRegion": "arica y parinacota",
+         "comunas": [ 
+             "arica", 
+             "camarones", 
+             "putre", 
+             "general lagos"
+     ]
+     },
+     {
+         "nombreRegion": "tarapacá",
+         "comunas": ["iquique", "alto hospicio", "pozo almonte", "camiña", "colchane", "huara",
+             "pica"
+         ]
+     },
+     {
+         "nombreRegion": "antofagasta",
+         "comunas": [
+             "antofagasta", "mejillones", "sierra gorda", "taltal", "calama", "ollagüe",
+             "san pedro de atacama", "tocopilla", "maría Elena"
+         ]
+     },
+     {
+         "nombreRegion": "atacama",
+         "comunas": ["copiapó", "caldera", "tierra amarilla", "chañaral", "diego de almagro",
+             "vallenar", "alto del carmen", "freirina", "huasco"
+         ]
+     },
+     {
+         "nombreRegion": "coquimbo",
+         "comunas": ["la serena", "coquimbo", "andacollo", "la higuera", "paiguano", "vicuña",
+             "illapel", "canela", "los vilos", "salamanca", "ovalle", "combarbalá",
+             "monte patria", "punitaqui", "río hurtado"
+         ]
+     }
+]
