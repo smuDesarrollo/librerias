@@ -29,11 +29,11 @@
      },
      {
         "nombreRegion": "biobío",
-        "comunas": ["arauco","cabrero","caete","chiguayante","coelemu","concepcion","coronel","curanilahue","hualpen","laja","lebu","los angeles","lota","mulchen","nacimiento","penco","quillon","san-carlos","san-pedro-de-la-paz","talcahuano","tucapel","yumbel"]
+        "comunas": ["arauco","cabrero","tomé","cañete","chiguayante","coelemu","concepción","coronel","curanilahue","hualpen","laja","lebu","los angeles","lota","mulchen","nacimiento","penco","quillon","san-carlos","san-pedro-de-la-paz","talcahuano","tucapel","yumbel"]
      },
      {
          "nombreRegion": "coquimbo",
-         "comunas": ["la serena", "coquimbo","illapel"
+         "comunas": ["la serena", "coquimbo","illapel","ovalle"
          ]
      },
      {
@@ -42,11 +42,11 @@
      },
      {
         "nombreRegion": "Los Lagos",
-        "comunas": ["Ancud", "calbuco","castro","frutillar","llanquihue","osorno","puerto-montt","purranque","quellon","quinchao"]
+        "comunas": ["Ancud", "calbuco","castro","frutillar","llanquihue","osorno","puerto montt","purranque","quellon","quinchao"]
      },
      {
         "nombreRegion": "los ríos",
-        "comunas": ["la union", "los lagos","mariquina","paillaco","panguipulli","rio-bueno","valdivia"]
+        "comunas": ["la unión", "los lagos","mariquina","paillaco","panguipulli","rio-bueno","valdivia","ranco"]
      },
      {
         "nombreRegion": "magallanes",
@@ -54,19 +54,19 @@
      },
      {
         "nombreRegion": "maule",
-        "comunas": ["cauquenes", "Metropolitana","curico","linares","molina","romeral","sagrada familia","san clemente","san javier","talca","teno"]
+        "comunas": ["cauquenes", "Metropolitana","curicó","linares","molina","romeral","sagrada familia","san clemente","san javier","talca","teno"]
      },
      {
         "nombreRegion": "metropolitana",
-        "comunas": ["buin","Metropolitana","conchali","curacavi","estacion central","huechuraba","independencia","la cisterna","la florida","la reina","las condes","lo barnechea","maipu","ñuñoa","peñalolen","providencia","pudahuel","puente alto","quinta normal","renca","san bernardo","san joaquin","san miguel","santiago","talagante","til-til","vitacura"]
+        "comunas": ["buin","Metropolitana","conchali","curacavi","estación central","huechuraba","independencia","la cisterna","la florida","la reina","las condes","lo barnechea","ñuñoa","peñalolen","providencia","pudahuel","puente alto","quilicura","quinta normal","renca","san bernardo","san joaquín","san miguel","santiago","talagante","til-til","lo espejo","vitacura","la granja","lo prado","maipú","macul","colina","recoleta","cerrillos","san ramón"]
      },
      {
         "nombreRegion": "ñuble",
-        "comunas": ["chillan","chillan-viejo","coihueco", "bulnes","yungay","el-carmen"]
+        "comunas": ["chillán","chillán-viejo","coihueco", "bulnes","yungay","el-carmen"]
      },
      {
         "nombreRegion": "O'Higgins",
-        "comunas": ["chimbarongo","graneros","las-cabras", "machali","nancagua","peumo","rancagua","san fernando"]
+        "comunas": ["chimbarongo","graneros","las-cabras", "machali","nancagua","peumo","rancagua","san fernando","san vicente","rengo","santa cruz"]
      },
      {
         "nombreRegion": "tarapacá",
@@ -74,6 +74,6 @@
      },
      {
         "nombreRegion": "valparaíso",
-        "comunas": ["cartagena","casablanca","el quisco","el tabo","limache","los andes","olmue","puchuncavi","quillota","quintero","san felipe","santo domingo","valparaiso","villa alemana","viña del mar"]
+        "comunas": ["cartagena","san antonio","casablanca","el quisco","el tabo","limache","los andes","olmue","puchuncavi","quillota","quintero","san felipe","santo domingo","valparaiso","villa alemana","viña del mar","quilpué","la calera"]
      }
 ]
